@@ -6,8 +6,6 @@ La página web estática, es un sitio enfocado en mostrar una información de ma
 
 ¿Para qué sirve, qué ventajas y desventajas tiene y cuál sería un buen ejemplo de una página web estática? Te lo contamos todo aquí, así que. ¡Adelante! 
 
-```
-
 ## ¿Para qué sirve una página web estática?
 
 Las páginas web estáticas son programadas en lenguaje HTML y CSS, no utilizan bases de datos ni requiere programación adicional, para acceder a ella sólo necesitarás el hipervínculo o enlace.
@@ -28,9 +26,7 @@ La principal ventaja de una página web estática es su economía, puedes crearl
 
 - **No requieren instalación**: sin programas que instalar o software que configurara, este estilo de página web estática se puede crear en poco tiempo y empezar a recibir visitas.
 
-[Link](url) and ![Image](https://cdn.banaky.com/public/sites/banaky/posts/e180a87a-b96c-4ffc-8c7d-b61f04b54b8b/pagina-web-estatica.jpg)
-
-```
+![Image](https://cdn.banaky.com/public/sites/banaky/posts/e180a87a-b96c-4ffc-8c7d-b61f04b54b8b/pagina-web-estatica.jpg)
 
 Para más detalles, puedes visitar la fuente: https://www.banaky.com/blog/paginas-web-estaticas/
 
